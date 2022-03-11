@@ -11,7 +11,7 @@ Wanna be a **Backend Developer** who focus on **basics**
 **CS Study**✏ : [JPA](https://velog.io/@sooyoungh/series/JPA%EB%A5%BC-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90)  데이터베이스  네트워크 운영체제
 
 
-## Projects
+## My Projects
 
 
 **Murange (뮤랑이, Music&Emotion)**
