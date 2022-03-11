@@ -19,9 +19,8 @@ Wanna be a **Backend Developer** who focus on **basics**
 
     딥러닝 텐서플로를 활용하여 유저 얼굴 표정 분석 후 기분에 맞는 음악 추천해주는 웹사이트
     
-[깃허브 링크](https://github.com/sungeun101/cafemate)
-
-[프로젝트 이슈 정리 벨로그](https://velog.io/@sooyoungh/series/Project-%EB%AE%A4%EB%9E%91%EC%9D%B4Mu-rang-E)
+- [깃허브 링크](https://github.com/sungeun101/cafemate)
+- [프로젝트 이슈 정리 벨로그](https://velog.io/@sooyoungh/series/Project-%EB%AE%A4%EB%9E%91%EC%9D%B4Mu-rang-E)
 
 
 
@@ -29,9 +28,8 @@ Wanna be a **Backend Developer** who focus on **basics**
 
     사용자 니즈에 맞는 카페 추천해주는 웹사이트
     
- [깃허브 링크](https://github.com/2022-project/backend)
-
-[프로젝트 이슈 정리 벨로그](https://velog.io/@sooyoungh/series/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%B9%B4%ED%8E%98%EB%A9%94%EC%9D%B4%ED%8A%B8)
+- [깃허브 링크](https://github.com/2022-project/backend)
+- [프로젝트 이슈 정리 벨로그](https://velog.io/@sooyoungh/series/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%B9%B4%ED%8E%98%EB%A9%94%EC%9D%B4%ED%8A%B8)
 
 
 <!--
