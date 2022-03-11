@@ -1,12 +1,11 @@
-## Hi👋, This is Sooyoung => ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)
+Hi👋, This is Sooyoung  ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)
 
 
-Wanna be a **Backend Developer** who focus on **basics**
+Wanna be a **Backend Developer** who focus on **basics** 
 
 FAV💜 : Music, Coffee, Organizing, Writing
 
 ## Skills
-----
 
 JavaSpring, JUnit5, MySQL, Docker
 
@@ -14,7 +13,6 @@ JavaSpring, JUnit5, MySQL, Docker
 
 ## Projects
 
----
 
 **Mu_rang_e (뮤랑이, Music&Emotion)**
 
@@ -31,8 +29,6 @@ JavaSpring, JUnit5, MySQL, Docker
 [프로젝트 이슈 정리 벨로그](https://velog.io/@sooyoungh/series/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%B9%B4%ED%8E%98%EB%A9%94%EC%9D%B4%ED%8A%B8)
 
 ## CS Study
-
----
 
 운영체제 : 
 
