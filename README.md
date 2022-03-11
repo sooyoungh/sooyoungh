@@ -4,18 +4,12 @@ Hi👋, This is Sooyoung  ![Gmail](https://img.shields.io/badge/Gmail-D14836?log
 Wanna be a **Backend Developer** who focus on **basics** 
 
 
-**FAV**💜 : Music, Coffee, Organizing, Writing
-
-**Skills**💻 :  <img src="https://img.shields.io/badge/JAVA-007396?&logo=java&style=flat-square&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?&style=flat-square&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
+- **FAV**💜 : Music, Coffee, Organizing, Writing
+- **Skills**💻 :  <img src="https://img.shields.io/badge/JAVA-007396?&logo=java&style=flat-square&logoColor=white"><img src="https://img.shields.io/badge/Spring-6DB33F?&style=flat-square&logo=Spring&logoColor=white"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white">![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)</a>
-
-**CS Study**✏ : [JPA](https://velog.io/@sooyoungh/series/JPA%EB%A5%BC-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90)  데이터베이스  네트워크 운영체제
+- **CS Study** : [JPA](https://velog.io/@sooyoungh/series/JPA%EB%A5%BC-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90)  데이터베이스  네트워크 운영체제
 
 
 ## My Projects
