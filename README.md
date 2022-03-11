@@ -30,14 +30,13 @@ JavaSpring, JUnit5, MySQL, Docker
 
 ## CS Study
 
-운영체제 : 
-
-JPA : [https://velog.io/@sooyoungh/series/JPA를-배워보자](https://velog.io/@sooyoungh/series/JPA%EB%A5%BC-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90)
+[JPA](https://velog.io/@sooyoungh/series/JPA%EB%A5%BC-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90)
 
 데이터베이스 : 
 
 네트워크 :
 
+운영체제 : 
 
 <!--
 **sooyoungh/sooyoungh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
