@@ -15,7 +15,7 @@ Wanna be a **Backend Developer** who focus on **basics**
 ## My Projects
 
 
-**Murange (뮤랑이, Music&Emotion)**
+### **Murange (뮤랑이, Music&Emotion)**
 
     딥러닝 텐서플로를 활용하여 유저 얼굴 표정 분석 후 기분에 맞는 음악 추천해주는 웹사이트
     
@@ -24,7 +24,7 @@ Wanna be a **Backend Developer** who focus on **basics**
 
 
 
-**CAFEMATE**
+### **CAFEMATE**
 
     사용자 니즈에 맞는 카페 추천해주는 웹사이트
     
