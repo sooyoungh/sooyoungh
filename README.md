@@ -25,7 +25,8 @@ Wanna be a **Backend Developer** who focus on **basics**
 
     사용자 니즈에 맞는 카페 추천해주는 웹사이트
     
-- [깃허브 링크](https://github.com/2022-project/backend)
+- [깃허브 링크 ver1 (팀프로젝트)](https://github.com/2022-project/backend)
+- [깃허브 링크 ver2 (리팩토링, TDD 등 개선) ](https://github.com/sooyoungh/cafemate_ver2)
 - [프로젝트 이슈 정리 벨로그](https://velog.io/@sooyoungh/series/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%B9%B4%ED%8E%98%EB%A9%94%EC%9D%B4%ED%8A%B8)
 
 
