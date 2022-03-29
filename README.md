@@ -12,9 +12,10 @@ Wanna be a **Backend Developer** who focus on **basics**
 ## My Projects
 
 
-### **Murange (뮤랑이, Music&Emotion)**
+### Murange (뮤랑이, Music&Emotion) 
+: 프로젝트 진행중
 
-    딥러닝 텐서플로를 활용하여 유저 얼굴 표정 분석 후 기분에 맞는 음악 추천해주는 웹사이트
+    딥러닝 기반 사용자의 실시간 표정 분석 후 기분에 맞는 음악 추천해주는 웹사이트
     
 - [깃허브 링크](https://github.com/2022-project/MurnagE)
 
