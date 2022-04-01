@@ -26,7 +26,7 @@ Wanna be a **Backend Developer** who focus on **basics**
     사용자 니즈에 맞는 카페 추천해주는 웹사이트
     
 - [깃허브 링크](https://github.com/sungeun101/cafemate)
-- [프로젝트 이슈 정리 벨로그](https://velog.io/@sooyoungh/CAFEMATE-%EC%B9%B4%ED%8E%98-%ED%95%84%ED%84%B0%EA%B2%80%EC%83%89-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8)
+- [프로젝트 정리 벨로그](https://velog.io/@sooyoungh/CAFEMATE-%EC%B9%B4%ED%8E%98-%ED%95%84%ED%84%B0%EA%B2%80%EC%83%89-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8)
 
 
 <!--
