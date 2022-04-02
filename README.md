@@ -17,7 +17,7 @@ Wanna be a **Backend Developer** who focus on **basics**
 
     딥러닝 기반 사용자의 실시간 표정 분석 후 기분에 맞는 음악 추천해주는 웹사이트
     
-- [깃허브 링크](https://github.com/2022-project/MurnagE)
+- [깃허브 링크](https://github.com/2022-project/Murange)
 
 
 
