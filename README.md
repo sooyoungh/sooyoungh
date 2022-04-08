@@ -5,7 +5,7 @@ Wanna be a **Backend Developer** who focus on **basics**
 
 
 - **FAV**💜 : Music, Coffee, Organizing, Writing
-- **Skills**💻 :  <img src="https://img.shields.io/badge/JAVA-007396?&logo=java&style=flat-square&logoColor=white"><img src="https://img.shields.io/badge/Spring-6DB33F?&style=flat-square&logo=Spring&logoColor=white"><img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)</a>
+- **Skills**💻 :  <img src="https://img.shields.io/badge/JAVA-007396?&logo=java&style=flat-square&logoColor=white"><img src="https://img.shields.io/badge/Spring-6DB33F?&style=flat-square&logo=Spring&logoColor=white"><img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)</a>
 - **Study** : [JPA](https://velog.io/@sooyoungh/series/JPA%EB%A5%BC-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90)   [Network](https://velog.io/@sooyoungh/series/HTTP-%EA%B3%B5%EB%B6%80%ED%95%98%EC%9E%90) DB  [OS](https://velog.io/@sooyoungh/series/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)
 
 
@@ -44,7 +44,7 @@ Wanna be a **Backend Developer** who focus on **basics**
 - [프로젝트 이슈 정리 벨로그](https://velog.io/@sooyoungh/series/Project-%EB%AE%A4%EB%9E%91%EC%9D%B4Mu-rang-E)
 
 Here are some ideas to get you started:
-
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
