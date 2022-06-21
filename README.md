@@ -9,7 +9,7 @@ Wanna be a **Backend Developer** who focus on **basics**
 - **Study** : [JPA](https://velog.io/@sooyoungh/series/JPA%EB%A5%BC-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90)   [Network](https://velog.io/@sooyoungh/series/HTTP-%EA%B3%B5%EB%B6%80%ED%95%98%EC%9E%90) DB  [OS](https://velog.io/@sooyoungh/series/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)
 
 
-## My Projects
+<!-- ## My Projects
 
 
 ### Murange (뮤랑이, Music&Emotion) 
@@ -28,7 +28,7 @@ Wanna be a **Backend Developer** who focus on **basics**
 - [깃허브 링크](https://github.com/sungeun101/cafemate)
 - [프로젝트 정리 벨로그](https://velog.io/@sooyoungh/CAFEMATE-%EC%B9%B4%ED%8E%98-%ED%95%84%ED%84%B0%EA%B2%80%EC%83%89-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8)
 
-
+ -->
 <!--
 **sooyoungh/sooyoungh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
