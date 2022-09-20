@@ -5,6 +5,9 @@ Wanna be a **Backend Developer** who focus on **basics**
 
 
 - **FAV**💜 : Music, Coffee, Organizing, Writing
+- **EDU**👩‍🎓 : Hongik Univ. Interior Architecture & Computer Science
+
+
 ## **Skills** 💻 
   - **Main** : <img src="https://img.shields.io/badge/JAVA-007396?&logo=java&style=flat-square&logoColor=white"><img src="https://img.shields.io/badge/Spring-6DB33F?&style=flat-square&logo=Spring&logoColor=white"><img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white">
 
