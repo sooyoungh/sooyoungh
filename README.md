@@ -5,7 +5,13 @@ Wanna be a **Backend Developer** who focus on **basics**
 
 
 - **FAV**💜 : Music, Coffee, Organizing, Writing
-- **Skills**💻 :  <img src="https://img.shields.io/badge/JAVA-007396?&logo=java&style=flat-square&logoColor=white"><img src="https://img.shields.io/badge/Spring-6DB33F?&style=flat-square&logo=Spring&logoColor=white"><img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)</a>
+- **Skills**💻 
+  - **Main** : <img src="https://img.shields.io/badge/JAVA-007396?&logo=java&style=flat-square&logoColor=white"><img src="https://img.shields.io/badge/Spring-6DB33F?&style=flat-square&logo=Spring&logoColor=white"><img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white">
+
+  - else : <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"><img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"><img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white">
+  
+
+
 
 
 <!-- - **Study** : [JPA](https://velog.io/@sooyoungh/series/JPA%EB%A5%BC-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90)   [Network](https://velog.io/@sooyoungh/series/HTTP-%EA%B3%B5%EB%B6%80%ED%95%98%EC%9E%90) DB  [OS](https://velog.io/@sooyoungh/series/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)
