@@ -5,6 +5,7 @@ Wanna be a **Backend Developer** who focus on **basics**
 
 - **FAV**💜 : Music, Coffee, Organizing, Writing
 - **EDU**👩‍🎓 : Hongik Univ. Interior Architecture & Computer Science
+- **Blog** : [Move to Blog](https://sy0.gitbook.io/sooyoungh/)
 
 
 ## **Skills** 💻 
