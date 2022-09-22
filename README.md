@@ -1,5 +1,4 @@
-Hi👋, This is Sooyoung 
-
+Hi👋, This is Sooyoung <img src="https://user-images.githubusercontent.com/77563814/191663534-c6160c98-721c-4b1f-97a2-52950e03f5f1.png" alt="https://user-images.githubusercontent.com/77563814/191663534-c6160c98-721c-4b1f-97a2-52950e03f5f1.png" width="30px" />
 
 Wanna be a **Backend Developer** who focus on **basics** 
 
