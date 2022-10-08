@@ -9,9 +9,9 @@ Wanna be a **Backend Developer** who focus on **basics**
 
 
 ## **Skills** 💻 
-  - **Main** : <img src="https://img.shields.io/badge/JAVA-007396?&logo=java&style=flat-square&logoColor=white"><img src="https://img.shields.io/badge/Spring-6DB33F?&style=flat-square&logo=Spring&logoColor=white"><img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white">
+      main - Java  Spring  MySQL  JUnit  AWS  Github
+      else - Python, Javascript
 
-  - else : <img src="https://img.shields.io/badge/-3776AB?style=flat-square&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"><img src="https://img.shields.io/badge/-E34F26?style=flat-square&logo=HTML5&logoColor=white"><img src="https://img.shields.io/badge/-1572B6?style=flat-square&logo=CSS3&logoColor=white"><img src="https://img.shields.io/badge/-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"><img src="https://img.shields.io/badge/-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white">
   
 ## Study 📝
 
@@ -65,8 +65,13 @@ Wanna be a **Backend Developer** who focus on **basics**
 
 - [프로젝트 이슈 정리 벨로그](https://velog.io/@sooyoungh/series/Project-%EB%AE%A4%EB%9E%91%EC%9D%B4Mu-rang-E)
 
+  - **Main** : <img src="https://img.shields.io/badge/JAVA-007396?&logo=java&style=flat-square&logoColor=white"><img src="https://img.shields.io/badge/Spring-6DB33F?&style=flat-square&logo=Spring&logoColor=white"><img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white">
+
+  - else : <img src="https://img.shields.io/badge/-3776AB?style=flat-square&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"><img src="https://img.shields.io/badge/-E34F26?style=flat-square&logo=HTML5&logoColor=white"><img src="https://img.shields.io/badge/-1572B6?style=flat-square&logo=CSS3&logoColor=white"><img src="https://img.shields.io/badge/-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"><img src="https://img.shields.io/badge/-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white">
 Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
