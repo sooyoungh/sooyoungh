@@ -17,21 +17,21 @@ Wanna be a **Backend Developer** who focus on **basics**
 
 > *[Today-I-learned](https://github.com/sooyoungh/Today-I-learned)* ([블로그](https://sy0.gitbook.io/sooyoungh/))
 > 
->       Java, CS, 책 읽고 정리한 레포 
+>     Java, CS, 책 읽고 정리한 레포 
 > *[CS 팀스터디](https://github.com/Cs-Java-Interview/Tech-Interview)*
 > 
->       Java, CS 등 4개월 간 매주 발표/피드백 진행한 팀스터디 레포
+>     Java, CS 등 4개월 간 매주 발표/피드백 진행한 팀스터디 레포
 > *[Blog](https://github.com/sooyoungh/blog) : Web Architecture 공부용 플젝*
 > 
->       Servlet, Spring, Spring Boot 3가지 방식으로 구현한 프로젝트
+>     Servlet, Spring, Spring Boot 3가지 방식으로 구현한 프로젝트
 > *[Book club](https://github.com/f-lab-edu/book-club) : Spring Security 공부용 플젝*
 > 
->       스프링 시큐리티 등 공부용 프로젝트
+>     스프링 시큐리티 등 공부용 프로젝트
 
 
 
 
-## My Projects
+## My Projects 🙂
 
 
 ### Murange (뮤랑이, Music&Emotion) 
