@@ -13,14 +13,24 @@ Wanna be a **Backend Developer** who focus on **basics**
 
   - else : <img src="https://img.shields.io/badge/-3776AB?style=flat-square&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"><img src="https://img.shields.io/badge/-E34F26?style=flat-square&logo=HTML5&logoColor=white"><img src="https://img.shields.io/badge/-1572B6?style=flat-square&logo=CSS3&logoColor=white"><img src="https://img.shields.io/badge/-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"><img src="https://img.shields.io/badge/-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white">
   
+## Study 📝
+
+*[Today-I-learned](https://github.com/sooyoungh/Today-I-learned)*
+> Java, CS, 책 읽고 정리한 레포 ([블로그](https://sy0.gitbook.io/sooyoungh/))
+
+*[CS 팀스터디](https://github.com/Cs-Java-Interview/Tech-Interview)*
+> Java, CS 등 4개월 간 매주 발표/피드백 진행한 팀스터디 레포
+
+*[Web Architecture 공부용 레포](https://github.com/sooyoungh/blog)*
+> Servlet, Spring, Spring Boot 3가지 방식으로 구현한 프로젝트
+
+*[Book club](https://github.com/f-lab-edu/book-club)*
+> 스프링 시큐리티 등 공부용 프로젝트
 
 
 
 
-<!-- - **Study** : [JPA](https://velog.io/@sooyoungh/series/JPA%EB%A5%BC-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90)   [Network](https://velog.io/@sooyoungh/series/HTTP-%EA%B3%B5%EB%B6%80%ED%95%98%EC%9E%90) DB  [OS](https://velog.io/@sooyoungh/series/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)
-
-
- ## My Projects
+## My Projects
 
 
 ### Murange (뮤랑이, Music&Emotion) 
@@ -31,7 +41,6 @@ Wanna be a **Backend Developer** who focus on **basics**
 - [깃허브 링크](https://github.com/2022-project/Murange)
 
 
-
 ### **CAFEMATE**
 
     사용자 니즈에 맞는 카페 추천해주는 웹사이트
@@ -39,7 +48,8 @@ Wanna be a **Backend Developer** who focus on **basics**
 - [깃허브 링크](https://github.com/sungeun101/cafemate)
 - [프로젝트 정리 벨로그](https://velog.io/@sooyoungh/CAFEMATE-%EC%B9%B4%ED%8E%98-%ED%95%84%ED%84%B0%EA%B2%80%EC%83%89-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8)
 
- -->
+<!-- - **Study** : [JPA](https://velog.io/@sooyoungh/series/JPA%EB%A5%BC-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90)   [Network](https://velog.io/@sooyoungh/series/HTTP-%EA%B3%B5%EB%B6%80%ED%95%98%EC%9E%90) DB  [OS](https://velog.io/@sooyoungh/series/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)
+
 <!--
 **sooyoungh/sooyoungh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
