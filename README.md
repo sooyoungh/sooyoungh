@@ -1,32 +1,28 @@
-Hi👋, This is Sooyoung <img src="https://user-images.githubusercontent.com/77563814/191663534-c6160c98-721c-4b1f-97a2-52950e03f5f1.png" alt="https://user-images.githubusercontent.com/77563814/191663534-c6160c98-721c-4b1f-97a2-52950e03f5f1.png" width="20px" />
+Hi👋, This is Sooyoung [Move to my Blog <img src="https://user-images.githubusercontent.com/77563814/191663534-c6160c98-721c-4b1f-97a2-52950e03f5f1.png" alt="https://user-images.githubusercontent.com/77563814/191663534-c6160c98-721c-4b1f-97a2-52950e03f5f1.png" width="18px" />](https://sy0.gitbook.io/sooyoungh/)
 
-Wanna be a **Backend Developer** who focus on **basics** 
-
-
-- **FAV**💜 : Music, Coffee, Organizing, Writing
-- **EDU**👩‍🎓 : Hongik Univ. Interior Architecture & Computer Science
-- **Blog** : [Move to Blog](https://sy0.gitbook.io/sooyoungh/)
-
+     Wanna be a Backend Developer who focus on basics
+     FAV💜 : Music, Coffee, Organizing, Writing
+     EDU👩‍🎓 : Hongik Univ. Interior Architecture & Computer Science
 
 ## **Skills** 💻 
-      main - Java  Spring  MySQL  JUnit  AWS  Github
-      else - Python, Javascript
+     main - Java  Spring  MySQL  JUnit  AWS  Github
+     else - Python  Javascript
 
   
 ## Study 📝
 
 > *[Today-I-learned](https://github.com/sooyoungh/Today-I-learned)* ([블로그](https://sy0.gitbook.io/sooyoungh/))
 > 
->     Java, CS, 책 읽고 정리한 레포 
+>      Java, CS, 책 읽고 정리한 레포 
 > *[CS 팀스터디](https://github.com/Cs-Java-Interview/Tech-Interview)*
 > 
->     Java, CS 등 4개월 간 매주 발표/피드백 진행한 팀스터디 레포
+>      Java, CS 등 4개월 간 매주 발표/피드백 진행한 팀스터디 레포
 > *[Blog](https://github.com/sooyoungh/blog) : Web Architecture 공부용 플젝*
 > 
 >     Servlet, Spring, Spring Boot 3가지 방식으로 구현한 프로젝트
 > *[Book club](https://github.com/f-lab-edu/book-club) : Spring Security 공부용 플젝*
 > 
->     스프링 시큐리티 등 공부용 프로젝트
+>      스프링 시큐리티 등 공부용 프로젝트
 
 
 
