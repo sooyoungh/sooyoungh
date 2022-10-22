@@ -2,9 +2,9 @@
 <!-- [Move to my Blog <img src="https://user-images.githubusercontent.com/77563814/191663534-c6160c98-721c-4b1f-97a2-52950e03f5f1.png" alt="https://user-images.githubusercontent.com/77563814/191663534-c6160c98-721c-4b1f-97a2-52950e03f5f1.png" width="18px" />](https://sy0.gitbook.io/sooyoungh/)
  -->
 
-<p align="center"> <a href="https://sy0.gitbook.io/sooyoungh/"><img src="https://img.shields.io/badge/Git Book Blog-cab5c9?style=flat&logo=GitBook&logoColor=black&link=https://sy0.gitbook.io/sooyoungh/"/></a> 
-<a href="https://sy0.gitbook.io/sooyoungh/"><img src="https://img.shields.io/badge/Portfolio-1c1c1c?style=flat&logo=Apache Spark&logoColor=white&link=https://sy0.gitbook.io/sooyoungh/"/></a> 
-<a href="mailto:sooyoung.h8@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:sooyoung.h8@gmail.com"/></a>
+<p align="center"> <a href="https://sy0.gitbook.io/sooyoungh/"><img src="https://img.shields.io/badge/Git Book Blog-d7d0e3?style=flat&logo=GitBook&logoColor=32144f&link=https://sy0.gitbook.io/sooyoungh/"/></a> 
+<a href="https://sy0.gitbook.io/sooyoungh/"><img src="https://img.shields.io/badge/Portfolio-f5f5dc?style=flat&logo=Undertale&logoColor=ee3f66&link=https://sy0.gitbook.io/sooyoungh/"/></a> 
+<a href="mailto:sooyoung.h8@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=red&link=mailto:sooyoung.h8@gmail.com"/></a>
 </p>
 
 <h2 align="center"> Introduction 📝</h2>
@@ -15,24 +15,26 @@
      
 <h2 align="center"> Skills 💻</h2>
 
+<h4 align="center">Back-end</h4>
 
 <p align="center"> 
-     
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=JAVA&logoColor=black"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=JUnit5&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=GitHub&logoColor=white"/>
-
 </p>
 
-<p align="center"> 
-     
+<h4 align="center">Else</h4>
+<p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe PS-000000?style=flat&logo=Adobe Photoshop&logoColor=white"/>
 </p>
+
+
 
 <!--   
 
