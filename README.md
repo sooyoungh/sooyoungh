@@ -1,16 +1,45 @@
-Hi👋, This is Sooyoung [Move to my Blog <img src="https://user-images.githubusercontent.com/77563814/191663534-c6160c98-721c-4b1f-97a2-52950e03f5f1.png" alt="https://user-images.githubusercontent.com/77563814/191663534-c6160c98-721c-4b1f-97a2-52950e03f5f1.png" width="18px" />](https://sy0.gitbook.io/sooyoungh/)
+<h2 align="center"> Hi👋, I'm Sooyoung </h2>
+<!-- [Move to my Blog <img src="https://user-images.githubusercontent.com/77563814/191663534-c6160c98-721c-4b1f-97a2-52950e03f5f1.png" alt="https://user-images.githubusercontent.com/77563814/191663534-c6160c98-721c-4b1f-97a2-52950e03f5f1.png" width="18px" />](https://sy0.gitbook.io/sooyoungh/)
+ -->
 
-     Wanna be a Backend Developer who focus on basics
-     FAV💜 : Music, Coffee, Organizing, Writing
-     EDU👩‍🎓 : Hongik Univ. Interior Architecture & Computer Science
+<p align="center"> <a href="https://sy0.gitbook.io/sooyoungh/"><img src="https://img.shields.io/badge/Git Book Blog-cab5c9?style=flat&logo=GitBook&logoColor=black&link=https://sy0.gitbook.io/sooyoungh/"/></a> 
+<a href="https://sy0.gitbook.io/sooyoungh/"><img src="https://img.shields.io/badge/Portfolio-1c1c1c?style=flat&logo=Apache Spark&logoColor=white&link=https://sy0.gitbook.io/sooyoungh/"/></a> 
+<a href="mailto:sooyoung.h8@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:sooyoung.h8@gmail.com"/></a>
+</p>
 
-## **Skills** 💻 
+<h2 align="center"> Introduction 📝</h2>
+
+<p align="center"> Wanna be a Backend Developer who focus on basics</p>
+<p align="center"> FAV💜 : Music, Coffee, Organizing, Writing</p>
+<p align="center"> EDU👩‍🎓 : Hongik Univ. Interior Architecture & Computer Science</p>
+     
+<h2 align="center"> Skills 💻</h2>
+
+
+<p align="center"> 
+     
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=JAVA&logoColor=black"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=JUnit5&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=GitHub&logoColor=white"/>
+
+</p>
+
+<p align="center"> 
+     
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+
+</p>
+
+<!--   
+
+## **Skills** 💻
+## Study 📝
      main - Java  Spring  MySQL  JUnit  AWS  Github
      else - Python  Javascript
-
-  
-## Study 📝
-
 > *[Today-I-learned](https://github.com/sooyoungh/Today-I-learned)* ([블로그](https://sy0.gitbook.io/sooyoungh/))
 > 
 >      Java, CS, 책 읽고 정리한 레포 
@@ -43,7 +72,7 @@ Hi👋, This is Sooyoung [Move to my Blog <img src="https://user-images.githubus
     😋 사용자 니즈에 맞는 카페 추천해주는 웹사이트 ☕
     
 - [깃허브 링크](https://github.com/sungeun101/cafemate)
-- [프로젝트 정리 벨로그](https://velog.io/@sooyoungh/CAFEMATE-%EC%B9%B4%ED%8E%98-%ED%95%84%ED%84%B0%EA%B2%80%EC%83%89-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8)
+- [프로젝트 정리 벨로그](https://velog.io/@sooyoungh/CAFEMATE-%EC%B9%B4%ED%8E%98-%ED%95%84%ED%84%B0%EA%B2%80%EC%83%89-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8) -->
 
 <!-- - **Study** : [JPA](https://velog.io/@sooyoungh/series/JPA%EB%A5%BC-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90)   [Network](https://velog.io/@sooyoungh/series/HTTP-%EA%B3%B5%EB%B6%80%ED%95%98%EC%9E%90) DB  [OS](https://velog.io/@sooyoungh/series/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)
 
