@@ -2,13 +2,15 @@
 <!-- [Move to my Blog <img src="https://user-images.githubusercontent.com/77563814/191663534-c6160c98-721c-4b1f-97a2-52950e03f5f1.png" alt="https://user-images.githubusercontent.com/77563814/191663534-c6160c98-721c-4b1f-97a2-52950e03f5f1.png" width="18px" />](https://sy0.gitbook.io/sooyoungh/)
  -->
 
+
+
 <p align="center"> <a href="https://sy0.gitbook.io/sooyoungh/"><img src="https://img.shields.io/badge/Git Book Blog-d7d0e3?style=flat&logo=GitBook&logoColor=32144f&link=https://sy0.gitbook.io/sooyoungh/"/></a> 
 <a href="https://sy0.gitbook.io/sooyoungh/"><img src="https://img.shields.io/badge/Portfolio-f5f5dc?style=flat&logo=Undertale&logoColor=ee3f66&link=https://sy0.gitbook.io/sooyoungh/"/></a> 
 <a href="mailto:sooyoung.h8@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=red&link=mailto:sooyoung.h8@gmail.com"/></a>
 </p>
 
-<h2 align="center"> Introduction 📝</h2>
 
+<h3 align="center"> Introduction 📝</h3>
 <p align="center"> Wanna be a Backend Developer who focus on basics</p>
 <p align="center"> FAV💜 : Music, Coffee, Organizing, Writing</p>
 <p align="center"> EDU👩‍🎓 : Hongik Univ. Interior Architecture & Computer Science</p>
