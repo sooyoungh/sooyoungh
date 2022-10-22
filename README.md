@@ -1,4 +1,4 @@
-<h2 align="center"> Hi👋, I'm Sooyoung </h2>
+<h1 align="center"> Hi👋, I'm Sooyoung </h1>
 <!-- [Move to my Blog <img src="https://user-images.githubusercontent.com/77563814/191663534-c6160c98-721c-4b1f-97a2-52950e03f5f1.png" alt="https://user-images.githubusercontent.com/77563814/191663534-c6160c98-721c-4b1f-97a2-52950e03f5f1.png" width="18px" />](https://sy0.gitbook.io/sooyoungh/)
  -->
 
