@@ -10,14 +10,12 @@
 </p>
 
 
-<h3 align="center"> Introduction 📝</h3>
+<h2 align="center"> Introduction 📝</h2>
 <p align="center"> Wanna be a Backend Developer who focus on basics</p>
 <p align="center"> FAV💜 : Music, Coffee, Organizing, Writing</p>
 <p align="center"> EDU👩‍🎓 : Hongik Univ. Interior Architecture & Computer Science</p>
      
 <h2 align="center"> Skills 💻</h2>
-
-<h4 align="center">Back-end</h4>
 
 <p align="center"> 
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=JAVA&logoColor=black"/>
@@ -27,8 +25,6 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=GitHub&logoColor=white"/>
 </p>
-
-<h4 align="center">Else</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
