@@ -28,7 +28,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/> -->
 <img src="https://img.shields.io/badge/Adobe PS-000000?style=flat&logo=Adobe Photoshop&logoColor=white"/>
 </p>
 
