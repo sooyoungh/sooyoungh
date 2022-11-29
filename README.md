@@ -7,8 +7,11 @@
 <p align="center"> <a href="https://sy0.gitbook.io/sooyoungh/"><img src="https://img.shields.io/badge/Git Book Blog-d7d0e3?style=flat&logo=GitBook&logoColor=32144f&link=https://sy0.gitbook.io/sooyoungh/"/></a> 
 <a href="https://sy0.gitbook.io/sooyoungh/"><img src="https://img.shields.io/badge/Portfolio-f5f5dc?style=flat&logo=Undertale&logoColor=ee3f66&link=https://sy0.gitbook.io/sooyoungh/"/></a> 
 <a href="mailto:sooyoung.h8@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=red&link=mailto:sooyoung.h8@gmail.com"/></a>
-</p>
 
+ 
+<p align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsooyoungh%2Fhit-counter&count_bg=%23530741&title_bg=%23414141&icon=&icon_color=%23000000&title=hits&edge_flat=false"/></a>
+</p>
 
 <h2 align="center"> Introduction 📝</h2>
 <p align="center"> Wanna be a Backend Developer who focus on basics</p>
