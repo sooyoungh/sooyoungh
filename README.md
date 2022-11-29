@@ -10,7 +10,7 @@
 
  
 <p align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsooyoungh%2Fhit-counter&count_bg=%23530741&title_bg=%23414141&icon=&icon_color=%23000000&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsooyoungh%2Fhit-counter&count_bg=%23151415&title_bg=%23414141&icon=&icon_color=%23000000&title=hits&edge_flat=false"/></a>
 </p>
 
 <h2 align="center"> Introduction 📝</h2>
