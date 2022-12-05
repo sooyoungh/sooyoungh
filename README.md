@@ -16,7 +16,7 @@ d4a259  -->
 
 <h2 align="center"> Introduction 📝</h2>
 <p align="center"> Wanna be a Backend Developer who focus on basics</p>
-<p align="center"> FAV💜 : Music, Coffee, Organizing, Writing</p>
+<p align="center"> FAV💜 : Music, Coffee, Writing, Exercise</p>
 <p align="center"> EDU👩‍🎓 : Hongik Univ. Interior Architecture & Computer Science</p>
      
 <h2 align="center"> Skills 💻</h2>
