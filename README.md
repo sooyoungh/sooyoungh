@@ -2,6 +2,7 @@
 
 <h1 align="center"> Hi👋, I'm Sooyoung </h1>
 
+<a href="https://github.com/sooyoungh/sooyoung-portfolio/blob/main/portfolio.pdf"><img src="https://img.shields.io/badge/Portfolio-f5f5dc?style=flat&logo=Undertale&logoColor=ee3f66&link=https://github.com/sooyoungh/sooyoung-portfolio/blob/main/portfolio.pdf"/></a> 
 
 <p align="center">  
 -->
@@ -9,7 +10,6 @@
 
 <a href="https://sooyoungh.github.io/"><img src="https://img.shields.io/badge/Github Blog-FFFFFF?style=flat&logo=GitHub&logoColor=000000&link=https://sooyoungh.github.io/"/></a> 
 <a href="https://sy0.gitbook.io/sooyoungh/"><img src="https://img.shields.io/badge/Git Book-d7d0e3?style=flat&logo=GitBook&logoColor=32144f&link=https://sy0.gitbook.io/sooyoungh/"/></a> 
-<a href="https://github.com/sooyoungh/sooyoung-portfolio/blob/main/portfolio.pdf"><img src="https://img.shields.io/badge/Portfolio-f5f5dc?style=flat&logo=Undertale&logoColor=ee3f66&link=https://github.com/sooyoungh/sooyoung-portfolio/blob/main/portfolio.pdf"/></a> 
 <a href="mailto:sooyoung.h8@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=red&link=mailto:sooyoung.h8@gmail.com"/></a>
 
  <!--   
